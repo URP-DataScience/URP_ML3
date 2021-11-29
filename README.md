@@ -1,2 +1,2 @@
 # URP_ML3
-Insaid Machine learning project 3
+Insaid Machine Learning Project 3
